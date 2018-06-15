@@ -1,0 +1,12 @@
+
+
+
+// Instantiate the module
+top7 instance_name (
+    .rst(rst), 
+    .clk(clk), 
+    .choose(choose), 
+    .LED(LED)
+    );
+
+

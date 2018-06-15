@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "E:/Vivado/Vivado File/ISE File/fulladd_test/fulladd.xst" -ofn "E:/Vivado/Vivado File/ISE File/fulladd_test/fulladd.syr" 

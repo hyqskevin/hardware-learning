@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\FILES\ISE File\test5\ipcore_dir\RAM_B.v" Line 39: Empty module &lt;<arg fmt="%s" index="1">RAM_B</arg>&gt; remains a black box.
+</msg>
+
+<msg type="info" file="Xst" num="3231" delta="old" >The small RAM &lt;<arg fmt="%s" index="1">Mram_Choose[1]_PWR_1_o_wide_mux_3_OUT</arg>&gt; will be implemented on LUTs in order to maximize performance and save block RAM resources. If you want to force its implementation on block, use option/constraint ram_style.
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">M_W_Data_0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">test5</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">7 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;M_W_Data_4&gt; &lt;M_W_Data_8&gt; &lt;M_W_Data_12&gt; &lt;M_W_Data_19&gt; &lt;M_W_Data_23&gt; &lt;M_W_Data_27&gt; &lt;M_W_Data_31&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">M_W_Data_16</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">test5</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">3 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;M_W_Data_20&gt; &lt;M_W_Data_24&gt; &lt;M_W_Data_28&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">M_W_Data_2</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">test5</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">7 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;M_W_Data_6&gt; &lt;M_W_Data_10&gt; &lt;M_W_Data_14&gt; &lt;M_W_Data_17&gt; &lt;M_W_Data_21&gt; &lt;M_W_Data_25&gt; &lt;M_W_Data_29&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">M_W_Data_18</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">test5</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">3 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;M_W_Data_22&gt; &lt;M_W_Data_26&gt; &lt;M_W_Data_30&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">M_W_Data_1</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">test5</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">3 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;M_W_Data_5&gt; &lt;M_W_Data_9&gt; &lt;M_W_Data_13&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">M_W_Data_3</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">test5</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">3 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;M_W_Data_7&gt; &lt;M_W_Data_11&gt; &lt;M_W_Data_15&gt; </arg>
+</msg>
+
+</messages>
+

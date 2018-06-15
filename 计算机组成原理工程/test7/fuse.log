@@ -1,0 +1,30 @@
+Running: E:\ISE\14.7\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o E:/FILES/ISE File/test7/test_7_isim_beh.exe -prj E:/FILES/ISE File/test7/test_7_beh.prj work.test_7 work.glbl 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "E:/FILES/ISE File/test7/ipcore_dir/Inst_ROM.v" into library work
+Analyzing Verilog file "E:/FILES/ISE File/test7/test7.v" into library work
+Analyzing Verilog file "E:/FILES/ISE File/test7/top7.v" into library work
+Analyzing Verilog file "E:/FILES/ISE File/test7/test_7.v" into library work
+Analyzing Verilog file "E:/ISE/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:189 - "E:/FILES/ISE File/test7/ipcore_dir/Inst_ROM.v" Line 122: Size mismatch in connection of port <DINA>. Formal port size is 32-bit while actual signal size is 1-bit.
+Completed static elaboration
+Fuse Memory Usage: 161552 KB
+Fuse CPU Usage: 327 ms
+Compiling module BLK_MEM_GEN_V7_3_output_stage(C_...
+Compiling module BLK_MEM_GEN_V7_3_softecc_output_...
+Compiling module BLK_MEM_GEN_V7_3_mem_module(C_CO...
+Compiling module BLK_MEM_GEN_V7_3(C_FAMILY="artix...
+Compiling module Inst_ROM
+Compiling module test7
+Compiling module top7
+Compiling module test_7
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 9 Verilog Units
+Built simulation executable E:/FILES/ISE File/test7/test_7_isim_beh.exe
+Fuse Memory Usage: 169976 KB
+Fuse CPU Usage: 421 ms

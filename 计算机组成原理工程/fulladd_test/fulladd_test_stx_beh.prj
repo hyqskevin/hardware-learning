@@ -1,0 +1,3 @@
+verilog isim_temp "adder32.v"
+verilog isim_temp "fulladd_test.v"
+verilog isim_temp "E:/ISE/14.7/ISE_DS/ISE//verilog/src/glbl.v"

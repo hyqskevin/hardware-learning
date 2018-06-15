@@ -1,0 +1,6 @@
+verilog work "ipcore_dir/mips_inst_ipcore.v"
+verilog work "mips_inst.v"
+verilog work "mips_decode.v"
+verilog work "mips_control.v"
+verilog work "mips_alu_32.v"
+verilog work "mips_reg.v"

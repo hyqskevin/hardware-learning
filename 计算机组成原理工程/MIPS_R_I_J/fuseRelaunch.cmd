@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "E:/FILES/ISE File/MIPS_R_I_J/test10_isim_beh.exe" -prj "E:/FILES/ISE File/MIPS_R_I_J/test10_beh.prj" "work.test10" "work.glbl" 

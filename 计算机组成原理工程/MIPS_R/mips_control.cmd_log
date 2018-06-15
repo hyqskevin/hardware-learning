@@ -1,0 +1,7 @@
+vhdtdtfi -lib work {E:/FILES/ISE File/MIPS_R/mips_control.v} -lang verilog -prj MIPS_R -o mips_control.spl -module mips_control -template E:/ISE/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family aartix7 mips_control.spl {E:/FILES/ISE File/MIPS_R/mips_control.sym} 
+vhdtdtfi -lib work {E:/FILES/ISE File/MIPS_R/mips_control.v} -lang verilog -prj MIPS_R -o mips_control.spl -module mips_control -template E:/ISE/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family aartix7 mips_control.spl {E:/FILES/ISE File/MIPS_R/mips_control.sym} 
+vhdtdtfi -lib work {E:/FILES/ISE File/MIPS_R/mips_control.v} -lang verilog -prj MIPS_R -o mips_control.spl -module mips_control -template E:/ISE/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family aartix7 mips_control.spl {E:/FILES/ISE File/MIPS_R/mips_control.sym} 
+xst -intstyle ise -ifn "E:/FILES/ISE File/MIPS_R/mips_control.xst" -ofn "E:/FILES/ISE File/MIPS_R/mips_control.syr" 

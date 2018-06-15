@@ -1,0 +1,8 @@
+verilog work "ipcore_dir/ROM_B.v"
+verilog work "rom.v"
+verilog work "yimaqi.v"
+verilog work "REG.v"
+verilog work "IO.v"
+verilog work "Get.v"
+verilog work "ALU.v"
+verilog work "TOP_R_cpu.v"

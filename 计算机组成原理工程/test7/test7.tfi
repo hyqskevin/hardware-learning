@@ -1,0 +1,11 @@
+
+
+
+// Instantiate the module
+test7 instance_name (
+    .rst(rst), 
+    .clk(clk), 
+    .Inst_code(Inst_code)
+    );
+
+

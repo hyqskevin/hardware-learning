@@ -1,0 +1,27 @@
+Running: E:\ISE\14.7\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o E:/FILES/ISE File/test5/Test_5_isim_beh.exe -prj E:/FILES/ISE File/test5/Test_5_beh.prj work.Test_5 work.glbl 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "E:/FILES/ISE File/test5/ipcore_dir/RAM_B.v" into library work
+Analyzing Verilog file "E:/FILES/ISE File/test5/test5.v" into library work
+Analyzing Verilog file "E:/FILES/ISE File/test5/Test_5.v" into library work
+Analyzing Verilog file "E:/ISE/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 161632 KB
+Fuse CPU Usage: 281 ms
+Compiling module BLK_MEM_GEN_V7_3_output_stage(C_...
+Compiling module BLK_MEM_GEN_V7_3_softecc_output_...
+Compiling module BLK_MEM_GEN_V7_3_mem_module(C_CO...
+Compiling module BLK_MEM_GEN_V7_3(C_FAMILY="artix...
+Compiling module RAM_B
+Compiling module test5
+Compiling module Test_5
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 8 Verilog Units
+Built simulation executable E:/FILES/ISE File/test5/Test_5_isim_beh.exe
+Fuse Memory Usage: 171080 KB
+Fuse CPU Usage: 374 ms

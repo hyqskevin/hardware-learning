@@ -1,0 +1,12 @@
+vhdtdtfi -lib work {E:/FILES/ISE File/MIPS_R/mips_decode.v} -lang verilog -prj MIPS_R -o mips_decode.spl -module mips_decode -template E:/ISE/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family aartix7 mips_decode.spl {E:/FILES/ISE File/MIPS_R/mips_decode.sym} 
+vhdtdtfi -lib work {E:/FILES/ISE File/MIPS_R/mips_decode.v} -lang verilog -prj MIPS_R -o mips_decode.spl -module mips_decode -template E:/ISE/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family aartix7 mips_decode.spl {E:/FILES/ISE File/MIPS_R/mips_decode.sym} 
+vhdtdtfi -lib work {E:/FILES/ISE File/MIPS_R/mips_decode.v} -lang verilog -prj MIPS_R -o mips_decode.spl -module mips_decode -template E:/ISE/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family aartix7 mips_decode.spl {E:/FILES/ISE File/MIPS_R/mips_decode.sym} 
+vhdtdtfi -lib work {E:/FILES/ISE File/MIPS_R/mips_decode.v} -lang verilog -prj MIPS_R -o mips_decode.spl -module mips_decode -template E:/ISE/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family aartix7 mips_decode.spl {E:/FILES/ISE File/MIPS_R/mips_decode.sym} 
+vhdtdtfi -lib work {E:/FILES/ISE File/MIPS_R/mips_decode.v} -lang verilog -prj MIPS_R -o mips_decode.spl -module mips_decode -template E:/ISE/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family aartix7 mips_decode.spl {E:/FILES/ISE File/MIPS_R/mips_decode.sym} 
+vhdtdtfi -lib work {E:/FILES/ISE File/MIPS_R/mips_decode.v} -lang verilog -prj MIPS_R -o mips_decode.spl -module mips_decode -template E:/ISE/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family aartix7 mips_decode.spl {E:/FILES/ISE File/MIPS_R/mips_decode.sym} 

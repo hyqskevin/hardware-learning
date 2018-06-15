@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "E:/Vivado/Vivado File/ISE File/fulladd_test/fulladd_test_isim_beh.exe" -prj "E:/Vivado/Vivado File/ISE File/fulladd_test/fulladd_test_beh.prj" "work.fulladd_test" "work.glbl" 

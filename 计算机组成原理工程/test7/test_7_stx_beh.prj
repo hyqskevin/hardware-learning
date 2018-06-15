@@ -1,0 +1,4 @@
+verilog isim_temp "test7.v"
+verilog isim_temp "top7.v"
+verilog isim_temp "test_7.v"
+verilog isim_temp "E:/ISE/14.7/ISE_DS/ISE//verilog/src/glbl.v"

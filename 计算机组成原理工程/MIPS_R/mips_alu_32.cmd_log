@@ -1,0 +1,51 @@
+xst -intstyle ise -ifn "E:/FILES/ISE File/MIPS_R/mips_alu_32.xst" -ofn "E:/FILES/ISE File/MIPS_R/mips_alu_32.syr" 
+xst -intstyle ise -ifn "E:/FILES/ISE File/MIPS_R/mips_alu_32.xst" -ofn "E:/FILES/ISE File/MIPS_R/mips_alu_32.syr" 
+xst -intstyle ise -ifn "E:/FILES/ISE File/MIPS_R/mips_alu_32.xst" -ofn "E:/FILES/ISE File/MIPS_R/mips_alu_32.syr" 
+xst -intstyle ise -ifn "E:/FILES/ISE File/MIPS_R/mips_alu_32.xst" -ofn "E:/FILES/ISE File/MIPS_R/mips_alu_32.syr" 
+xst -intstyle ise -ifn "E:/FILES/ISE File/MIPS_R/mips_alu_32.xst" -ofn "E:/FILES/ISE File/MIPS_R/mips_alu_32.syr" 
+xst -intstyle ise -ifn "E:/FILES/ISE File/MIPS_R/mips_alu_32.xst" -ofn "E:/FILES/ISE File/MIPS_R/mips_alu_32.syr" 
+xst -intstyle ise -ifn "E:/FILES/ISE File/MIPS_R/mips_alu_32.xst" -ofn "E:/FILES/ISE File/MIPS_R/mips_alu_32.syr" 
+xst -intstyle ise -ifn "E:/FILES/ISE File/MIPS_R/mips_alu_32.xst" -ofn "E:/FILES/ISE File/MIPS_R/mips_alu_32.syr" 
+xst -intstyle ise -ifn "E:/FILES/ISE File/MIPS_R/mips_alu_32.xst" -ofn "E:/FILES/ISE File/MIPS_R/mips_alu_32.syr" 
+xst -intstyle ise -ifn "E:/FILES/ISE File/MIPS_R/mips_alu_32.xst" -ofn "E:/FILES/ISE File/MIPS_R/mips_alu_32.syr" 
+xst -intstyle ise -ifn "E:/FILES/ISE File/MIPS_R/mips_alu_32.xst" -ofn "E:/FILES/ISE File/MIPS_R/mips_alu_32.syr" 
+xst -intstyle ise -ifn "E:/FILES/ISE File/MIPS_R/mips_alu_32.xst" -ofn "E:/FILES/ISE File/MIPS_R/mips_alu_32.syr" 
+xst -intstyle ise -ifn "E:/FILES/ISE File/MIPS_R/mips_alu_32.xst" -ofn "E:/FILES/ISE File/MIPS_R/mips_alu_32.syr" 
+xst -intstyle ise -ifn "E:/FILES/ISE File/MIPS_R/mips_alu_32.xst" -ofn "E:/FILES/ISE File/MIPS_R/mips_alu_32.syr" 
+xst -intstyle ise -ifn "E:/FILES/ISE File/MIPS_R/mips_alu_32.xst" -ofn "E:/FILES/ISE File/MIPS_R/mips_alu_32.syr" 
+xst -intstyle ise -ifn "E:/FILES/ISE File/MIPS_R/mips_alu_32.xst" -ofn "E:/FILES/ISE File/MIPS_R/mips_alu_32.syr" 
+xst -intstyle ise -ifn "E:/FILES/ISE File/MIPS_R/mips_alu_32.xst" -ofn "E:/FILES/ISE File/MIPS_R/mips_alu_32.syr" 
+xst -intstyle ise -ifn "E:/FILES/ISE File/MIPS_R/mips_alu_32.xst" -ofn "E:/FILES/ISE File/MIPS_R/mips_alu_32.syr" 
+xst -intstyle ise -ifn "E:/FILES/ISE File/MIPS_R/mips_alu_32.xst" -ofn "E:/FILES/ISE File/MIPS_R/mips_alu_32.syr" 
+xst -intstyle ise -ifn "E:/FILES/ISE File/MIPS_R/mips_alu_32.xst" -ofn "E:/FILES/ISE File/MIPS_R/mips_alu_32.syr" 
+xst -intstyle ise -ifn "E:/FILES/ISE File/MIPS_R/mips_alu_32.xst" -ofn "E:/FILES/ISE File/MIPS_R/mips_alu_32.syr" 
+xst -intstyle ise -ifn "E:/FILES/ISE File/MIPS_R/mips_alu_32.xst" -ofn "E:/FILES/ISE File/MIPS_R/mips_alu_32.syr" 
+xst -intstyle ise -ifn "E:/FILES/ISE File/MIPS_R/mips_alu_32.xst" -ofn "E:/FILES/ISE File/MIPS_R/mips_alu_32.syr" 
+xst -intstyle ise -ifn "E:/FILES/ISE File/MIPS_R/mips_alu_32.xst" -ofn "E:/FILES/ISE File/MIPS_R/mips_alu_32.syr" 
+vhdtdtfi -lib work {E:/FILES/ISE File/MIPS_R/mips_alu_32.v} -lang verilog -prj MIPS_R -o mips_alu_32.spl -module mips_alu_32 -template E:/ISE/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family aartix7 mips_alu_32.spl {E:/FILES/ISE File/MIPS_R/mips_alu_32.sym} 
+vhdtdtfi -lib work {E:/FILES/ISE File/MIPS_R/mips_alu_32.v} -lang verilog -prj MIPS_R -o mips_alu_32.spl -module mips_alu_32 -template E:/ISE/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family aartix7 mips_alu_32.spl {E:/FILES/ISE File/MIPS_R/mips_alu_32.sym} 
+vhdtdtfi -lib work {E:/FILES/ISE File/MIPS_R/mips_alu_32.v} -lang verilog -prj MIPS_R -o mips_alu_32.spl -module mips_alu_32 -template E:/ISE/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family aartix7 mips_alu_32.spl {E:/FILES/ISE File/MIPS_R/mips_alu_32.sym} 
+vhdtdtfi -lib work {E:/FILES/ISE File/MIPS_R/mips_alu_32.v} -lang verilog -prj MIPS_R -o mips_alu_32.spl -module mips_alu_32 -template E:/ISE/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family aartix7 mips_alu_32.spl {E:/FILES/ISE File/MIPS_R/mips_alu_32.sym} 
+xst -intstyle ise -ifn "E:/FILES/ISE File/MIPS_R/mips_alu_32.xst" -ofn "E:/FILES/ISE File/MIPS_R/mips_alu_32.syr" 
+xst -intstyle ise -ifn "E:/FILES/ISE File/MIPS_R/mips_alu_32.xst" -ofn "E:/FILES/ISE File/MIPS_R/mips_alu_32.syr" 
+xst -intstyle ise -ifn "E:/FILES/ISE File/MIPS_R/mips_alu_32.xst" -ofn "E:/FILES/ISE File/MIPS_R/mips_alu_32.syr" 
+xst -intstyle ise -ifn "E:/FILES/ISE File/MIPS_R/mips_alu_32.xst" -ofn "E:/FILES/ISE File/MIPS_R/mips_alu_32.syr" 
+xst -intstyle ise -ifn "E:/FILES/ISE File/MIPS_R/mips_alu_32.xst" -ofn "E:/FILES/ISE File/MIPS_R/mips_alu_32.syr" 
+xst -intstyle ise -ifn "E:/FILES/ISE File/MIPS_R/mips_alu_32.xst" -ofn "E:/FILES/ISE File/MIPS_R/mips_alu_32.syr" 
+xst -intstyle ise -ifn "E:/FILES/ISE File/MIPS_R/mips_alu_32.xst" -ofn "E:/FILES/ISE File/MIPS_R/mips_alu_32.syr" 
+xst -intstyle ise -ifn "E:/FILES/ISE File/MIPS_R/mips_alu_32.xst" -ofn "E:/FILES/ISE File/MIPS_R/mips_alu_32.syr" 
+xst -intstyle ise -ifn "E:/FILES/ISE File/MIPS_R/mips_alu_32.xst" -ofn "E:/FILES/ISE File/MIPS_R/mips_alu_32.syr" 
+xst -intstyle ise -ifn "E:/FILES/ISE File/MIPS_R/mips_alu_32.xst" -ofn "E:/FILES/ISE File/MIPS_R/mips_alu_32.syr" 
+xst -intstyle ise -ifn "E:/FILES/ISE File/MIPS_R/mips_alu_32.xst" -ofn "E:/FILES/ISE File/MIPS_R/mips_alu_32.syr" 
+xst -intstyle ise -ifn "E:/FILES/ISE File/MIPS_R/mips_alu_32.xst" -ofn "E:/FILES/ISE File/MIPS_R/mips_alu_32.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim mips_alu_32.ngc mips_alu_32_synthesis.v 
+xst -intstyle ise -ifn "E:/FILES/ISE File/MIPS_R/mips_alu_32.xst" -ofn "E:/FILES/ISE File/MIPS_R/mips_alu_32.syr" 
+xst -intstyle ise -ifn "E:/FILES/ISE File/MIPS_R/mips_alu_32.xst" -ofn "E:/FILES/ISE File/MIPS_R/mips_alu_32.syr" 
+xst -intstyle ise -ifn "E:/FILES/ISE File/MIPS_R/mips_alu_32.xst" -ofn "E:/FILES/ISE File/MIPS_R/mips_alu_32.syr" 
+xst -intstyle ise -ifn "E:/FILES/ISE File/MIPS_R/mips_alu_32.xst" -ofn "E:/FILES/ISE File/MIPS_R/mips_alu_32.syr" 
+xst -intstyle ise -ifn "E:/FILES/ISE File/MIPS_R/mips_alu_32.xst" -ofn "E:/FILES/ISE File/MIPS_R/mips_alu_32.syr" 
+xst -intstyle ise -ifn "E:/FILES/ISE File/MIPS_R/mips_alu_32.xst" -ofn "E:/FILES/ISE File/MIPS_R/mips_alu_32.syr" 

@@ -1,0 +1,20 @@
+Running: E:\ISE\14.7\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o E:/Vivado/Vivado File/ISE File/fulladd_test/fulladd_test_isim_beh.exe -prj E:/Vivado/Vivado File/ISE File/fulladd_test/fulladd_test_beh.prj work.fulladd_test work.glbl 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "E:/Vivado/Vivado File/ISE File/fulladd_test/adder32.v" into library work
+Analyzing Verilog file "E:/Vivado/Vivado File/ISE File/fulladd_test/fulladd_test.v" into library work
+Analyzing Verilog file "E:/ISE/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 157572 KB
+Fuse CPU Usage: 593 ms
+Compiling module fulladd
+Compiling module fulladd_test
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Compiled 3 Verilog Units
+Built simulation executable E:/Vivado/Vivado File/ISE File/fulladd_test/fulladd_test_isim_beh.exe
+Fuse Memory Usage: 164068 KB
+Fuse CPU Usage: 687 ms
